@@ -1,0 +1,10 @@
+D:\VSProject\Pro1\shangweiji\bin\Debug\shangweiji.exe.config
+D:\VSProject\Pro1\shangweiji\bin\Debug\shangweiji.exe
+D:\VSProject\Pro1\shangweiji\bin\Debug\shangweiji.pdb
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.csprojAssemblyReference.cache
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.我老婆叫沈佳佳.resources
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.Properties.Resources.resources
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.csproj.GenerateResource.cache
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.csproj.CoreCompileInputs.cache
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.exe
+D:\VSProject\Pro1\shangweiji\obj\Debug\shangweiji.pdb

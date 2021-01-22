@@ -1,0 +1,10 @@
+D:\VSProject\Pro1\shangweiji\bin\Release\shangweiji.exe.config
+D:\VSProject\Pro1\shangweiji\bin\Release\shangweiji.exe
+D:\VSProject\Pro1\shangweiji\bin\Release\shangweiji.pdb
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.csprojAssemblyReference.cache
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.Properties.Resources.resources
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.csproj.GenerateResource.cache
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.csproj.CoreCompileInputs.cache
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.exe
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.pdb
+D:\VSProject\Pro1\shangweiji\obj\Release\shangweiji.上位机之王.resources
